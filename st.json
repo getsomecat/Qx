@@ -1,0 +1,8 @@
+{
+    "name":"☁ ww",
+    "description":"ww",
+    "task":[
+        {"config": "event-interaction https://raw.githubusercontent.com/getsomecat/Qx/main/Net_Speed.js, tag=☁ WARP Panel, img-url=lock.icloud.fill.system, enabled=true", "addons": ""},
+        
+    ]
+}
