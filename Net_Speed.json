@@ -1,0 +1,8 @@
+{
+    "name":"⚡️ Net Speed",
+    "description":"测试网络下行速度和延迟",
+    "task":[
+        {"config": "event-interaction https://raw.githubusercontent.com/getsomecat/Qx/main/Net_Speed.js, tag=⚡️ Net Speed, img-url=bolt.square.fill.system, enabled=true", "addons": ""},
+        
+    ]
+}
